@@ -1,2 +1,82 @@
 # Google-Search-API
 This documentation will explain you how you can use Scrapingdog's Google SERP API to extract real time data from Google Search
+
+# 🔍 Scrapingdog Google Search API – Effortless SERP Scraping
+
+Scrapingdog's Google Search API lets you scrape real-time search engine results (SERPs) with ease — no proxies, CAPTCHAs, or browsers to manage.
+
+> ⚡ **Instant access to Google search data, delivered via simple API.**
+
+---
+
+## 🚀 What You Can Do
+
+- Scrape organic Google search results
+- Access result titles, URLs, snippets, ads, and more
+- Use location, language, and device-specific search
+- Perform bulk SERP scraping reliably at scale
+
+---
+
+## 💡 Why Use Scrapingdog?
+
+- 🧠 Bypasses Google bot detection and CAPTCHA automatically
+- 🔐 No proxy rotation or browser setup required
+- 🧰 Simple GET-based REST API (works with any language)
+- 💸 Free trial with **1,000 credits**
+- 🌍 Built to scale millions of search requests
+
+---
+
+## 🧪 Quick Start (Node.js)
+
+```js
+const axios = require('axios');
+
+const response = await axios.get('https://api.scrapingdog.com/google', {
+  params: {
+    api_key: 'YOUR_API_KEY',
+    query: 'best laptops 2024'
+  }
+});
+
+console.log(response.data);
+```
+
+---
+
+## 📁 Example Folder Structure
+
+```
+/examples
+  ├── nodejs
+  │   └── google.js
+  ├── python
+  │   └── google.py
+  └── php
+      └── google.php
+```
+
+---
+
+## 📚 Documentation
+
+- 🔗 [Full Docs](https://www.scrapingdog.com/google-search-api)
+- 🔐 [Get API Key](https://www.scrapingdog.com)
+
+---
+
+## 🙌 Support
+
+Need help? Reach out at [support@scrapingdog.com](mailto:support@scrapingdog.com) or open an issue here.
+
+---
+
+## 📄 License
+
+MIT License. Use it, fork it, enhance it.
+
+---
+
+**Made with ❤️ by the Scrapingdog team.**
+
