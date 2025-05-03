@@ -1,4 +1,4 @@
-![Scrapingdog Banner](https://ibb.co/C5KbJ3BQ)
+[![Google Scraping API (1)](https://www.scrapingdog.com/wp-content/uploads/2025/05/SERP-API-1.png)](https://www.scrapingdog.com/google-search-api/) 
 
 
 # 🔍 Scrapingdog Google Search API – Effortless SERP Scraping
