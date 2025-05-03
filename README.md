@@ -1,5 +1,5 @@
-# Google-Search-API
-This documentation will explain you how you can use Scrapingdog's Google SERP API to extract real time data from Google Search
+![Scrapingdog Banner](https://ibb.co/C5KbJ3BQ)
+
 
 # 🔍 Scrapingdog Google Search API – Effortless SERP Scraping
 
