@@ -3,7 +3,7 @@ This documentation will explain you how you can use Scrapingdog's Google SERP AP
 
 # 🔍 Scrapingdog Google Search API – Effortless SERP Scraping
 
-Scrapingdog's Google Search API lets you scrape real-time search engine results (SERPs) with ease — no proxies, CAPTCHAs, or browsers to manage.
+Scrapingdog's [Google Search API](https://www.scrapingdog.com/google-search-api) lets you scrape real-time search engine results (SERPs) with ease — no proxies, CAPTCHAs, or browsers to manage.
 
 > ⚡ **Instant access to Google search data, delivered via simple API.**
 
@@ -47,8 +47,9 @@ console.log(response.data);
 
 ## 📚 Resources
 
-- 🔗 [SERP API](https://www.scrapingdog.com/google-search-api)
-- 🔐 [Sign Up(https://api.scrapingdog.com/register)
+- 🔗 [Blog](https://www.scrapingdog.com/blog/)
+- 🎥 [Video Tutorials](https://www.scrapingdog.com/video-tutorials-and-tips/)
+- 🔐 [Sign Up](https://api.scrapingdog.com/register)
 
 ---
 
