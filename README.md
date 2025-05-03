@@ -45,36 +45,17 @@ console.log(response.data);
 
 ---
 
-## 📁 Example Folder Structure
+## 📚 Resources
 
-```
-/examples
-  ├── nodejs
-  │   └── google.js
-  ├── python
-  │   └── google.py
-  └── php
-      └── google.php
-```
-
----
-
-## 📚 Documentation
-
-- 🔗 [Full Docs](https://www.scrapingdog.com/google-search-api)
-- 🔐 [Get API Key](https://www.scrapingdog.com)
+- 🔗 [SERP API](https://www.scrapingdog.com/google-search-api)
+- 🔐 [Sign Up(https://api.scrapingdog.com/register)
 
 ---
 
 ## 🙌 Support
 
-Need help? Reach out at [support@scrapingdog.com](mailto:support@scrapingdog.com) or open an issue here.
+Need help? Reach out at [info@scrapingdog.com](mailto:info@scrapingdog.com) or open an issue here.
 
----
-
-## 📄 License
-
-MIT License. Use it, fork it, enhance it.
 
 ---
 
